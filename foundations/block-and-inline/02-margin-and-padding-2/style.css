@@ -10,20 +10,20 @@ body {
 }
 
 .title {
-  background: #6dbef5;
+  background: #99d1f7;
   font-size: 18px;
   padding: 5px;
   margin-bottom: 15px;
 }
 
 .content {
-  background: #6dbef5;
+  background: #99d1f7;
   padding: 10px;
 }
 
 .button-container {
   margin-top: 15px;
-  background: #6dbef5;
+  background: #99d1f7;
   padding-left: 170px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -32,4 +32,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
 }
