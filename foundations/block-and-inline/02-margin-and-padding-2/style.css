@@ -11,6 +11,8 @@ body {
 
 .title {
   background: #6dbef5;
+  font-size: 18px;
+  padding: 5px;
   margin-bottom: 15px;
 }
 
